@@ -6,8 +6,8 @@
 
 	<groupId>nl.hsac</groupId>
 	<artifactId>hsac-fitnesse-fixtures</artifactId>
-	<version>3.0.1-SNAPSHOT</version>
-	<url>https://github.com/fhoeben/hsac-fitnesse-fixtures</url>
+	<version>latest</version>
+	<url>https://github.com/Aouladelali/Fitnesse.git</url>
 	<name>HSAC's FitNesse Fixtures</name>
 	<description>Fixtures to assist in testing via FitNesse</description>
 
